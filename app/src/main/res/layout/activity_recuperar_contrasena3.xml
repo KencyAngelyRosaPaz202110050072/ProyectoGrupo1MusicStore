@@ -124,7 +124,7 @@
 
                 <Space
                     android:layout_width="match_parent"
-                    android:layout_height="155dp" />
+                    android:layout_height="143dp" />
 
                 <Button
                     android:id="@+id/BtnRecuperarRestaurar"

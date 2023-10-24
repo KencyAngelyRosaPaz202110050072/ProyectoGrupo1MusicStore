@@ -60,7 +60,7 @@
                     android:layout_height="377dp" />
 
                 <Button
-                    android:id="@+id/BtnRecuperarEnviar"
+                    android:id="@+id/BtnIngresar"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@color/button"
@@ -73,7 +73,7 @@
                     android:layout_height="22dp" />
 
                 <Button
-                    android:id="@+id/btnRecuperarEnviar"
+                    android:id="@+id/btnRegistrarse"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@color/button"
