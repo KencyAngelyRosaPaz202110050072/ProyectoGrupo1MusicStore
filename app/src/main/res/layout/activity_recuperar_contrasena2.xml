@@ -89,7 +89,7 @@
                 <EditText
                     android:id="@+id/txtRecuperarVerificar"
                     android:layout_width="match_parent"
-                    android:layout_height="40dp"
+                    android:layout_height="39dp"
                     android:background="@drawable/edittext"
                     android:importantForAutofill="no"
                     android:inputType="textPassword"
@@ -98,7 +98,16 @@
 
                 <Space
                     android:layout_width="match_parent"
-                    android:layout_height="16dp" />
+                    android:layout_height="11dp" />
+
+                <TextView
+                    android:id="@+id/lblenviardenuevo2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/LinkEnviarDeNuevo2"
+                    android:textAlignment="textEnd"
+                    android:textColor="#878484"
+                    android:textSize="11sp" />
 
                 <Space
                     android:layout_width="match_parent"

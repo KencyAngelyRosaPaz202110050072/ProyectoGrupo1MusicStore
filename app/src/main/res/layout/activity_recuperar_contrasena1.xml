@@ -80,7 +80,7 @@
 
                 <TextView
                     android:id="@+id/ingreseContrsenaActual"
-                    android:layout_width="wrap_content"
+                    android:layout_width="318dp"
                     android:layout_height="48dp"
                     android:text="@string/LabelTienesProblemasParaIniciarSesion"
                     android:textColor="#D3D3D3"
@@ -113,7 +113,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@color/button"
-                    android:text="@string/EnviarCodigo"
+                    android:text="@string/ENVIARCODIGO"
                     android:textColor="@color/white"
                     tools:ignore="TextContrastCheck,VisualLintButtonSize" />
 
