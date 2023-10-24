@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/fondoprincipal"
+    android:background="@drawable/FondoPrincipal"
     android:paddingTop="15dp"
     tools:context=".perfilPersonal">
 
@@ -57,7 +57,7 @@
 
                 <Space
                     android:layout_width="match_parent"
-                    android:layout_height="377dp" />
+                    android:layout_height="367dp" />
 
                 <Button
                     android:id="@+id/BtnIngresar"
