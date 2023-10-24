@@ -109,7 +109,7 @@
 
                 <Space
                     android:layout_width="match_parent"
-                    android:layout_height="207dp" />
+                    android:layout_height="195dp" />
 
                 <Button
                     android:id="@+id/BtnRegistrar"

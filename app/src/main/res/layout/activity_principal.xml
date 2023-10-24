@@ -53,11 +53,11 @@
 
                 <Space
                     android:layout_width="match_parent"
-                    android:layout_height="53dp" />
+                    android:layout_height="42dp" />
 
                 <Space
                     android:layout_width="match_parent"
-                    android:layout_height="367dp" />
+                    android:layout_height="378dp" />
 
                 <Button
                     android:id="@+id/BtnIngresar"
