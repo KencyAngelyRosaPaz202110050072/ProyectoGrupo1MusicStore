@@ -124,12 +124,12 @@
 
                 <Space
                     android:layout_width="match_parent"
-                    android:layout_height="127dp" />
+                    android:layout_height="120dp" />
 
                 <Button
                     android:id="@+id/BtnRecuperarRestaurar"
                     android:layout_width="match_parent"
-                    android:layout_height="50dp"
+                    android:layout_height="wrap_content"
                     android:background="@color/button"
                     android:text="@string/RestaurarContra"
                     android:textColor="@color/white"
